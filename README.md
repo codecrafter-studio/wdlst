@@ -8,7 +8,7 @@ This project is recently moved to CodeCrafter Studio's GitHub and will be mainta
 
 The project is still owned by the original author rgzz666, and rgzz666 reserves the right to reclaim project copyrights.
 
-(C) 2022.05.27~2024.07.27 rgzz666 | (C) 2024.07.28~NOW CodeCrafter Studio
+(C) 2022.05.27\~2024.07.27 rgzz666 | (C) 2024.07.28\~NOW CodeCrafter Studio
 
 ## The Next Steps
 We are going to make some small modifies and make it at least usable, and then we will totally start over later after that.
